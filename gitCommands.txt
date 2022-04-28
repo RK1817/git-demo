@@ -1,0 +1,10 @@
+* git clone " "
+* git config --global user.name "Ranjith"
+* git config --global --list
+* mkdir folder
+* ls
+* echo "file content from cmd" >> start.txt
+* cat start.txt   ---> show the contents of file
+* git status
+* git add start.txt
+
