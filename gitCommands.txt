@@ -3,8 +3,26 @@
 * git config --global --list
 * mkdir folder
 * ls
+* ls -al
 * echo "file content from cmd" >> start.txt
 * cat start.txt   ---> show the contents of file
 * git status
 * git add start.txt
-
+* git commit -m "vanakum d mapla"
+* git push origin master
+* cat ~/.gitconfig  --> ~home directory short hand
+* git init freshFolde --> create new folder
+* git rm --cached folder  --> unstage
+* git rm -f folder --> delete completely
+* git restore --staged folder  --> unstage
+* git pull origin master
+* git push origin master
+* git branch <branch_name>  --> create
+* git branch -a -->lst branches
+* git branch -d <branch_name> --> delete branch
+* git checkout <branch_name>  --> existing branch working
+* git checkout -b <new_branch>
+* git merge <source_branch>
+* git pull <branch_name> <remote URL>
+* git push -u origin master
+*
